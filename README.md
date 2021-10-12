@@ -2,7 +2,6 @@
 
 <br/>
 
-- 💻 Em busca de uma oportunidade no mercado de Dev Android.
 - 🌱 Atualmente estudando Android e Kotlin.
 - 🤔 Posso colaborar com conhecimentos sobre Android e Kotlin.
 

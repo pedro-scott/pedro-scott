@@ -7,6 +7,7 @@
 
 [![Author](https://img.shields.io/static/v1?label=@author&message=Pedro%20Scott%20Developer&color=important)](https://github.com/pedro-scott-dev)
 [![LinkedIn](https://img.shields.io/static/v1?label=@linkedin&message=@pedro-scott-dev&color=blue)](https://www.linkedin.com/in/pedro-scott-dev/)
+[![Email](https://img.shields.io/static/v1?label=@email&message=pedroscott.dev@gmail.com&color=red)](mailto:pedroscott.dev@gmail.com)
 
 <div>
   <a href="https://github.com/pedro-scott">
